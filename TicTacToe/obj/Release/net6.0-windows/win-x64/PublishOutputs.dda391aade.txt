@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\Release\net6.0-windows\publish\win-x64\TicTacToe.pdb
+C:\Users\User\source\repos\TicTacToe\TicTacToe\bin\Release\net6.0-windows\publish\win-x64\TicTacToe.exe
